@@ -1,0 +1,20 @@
+.btn {
+  width: 200px;
+  height: 50px;
+  padding: 8px 10px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.btn-increment {
+  background-color: blue;
+  color: whitesmoke;
+}
+
+.btn-decrement {
+  background-color: red;
+  color: whitesmoke;
+}

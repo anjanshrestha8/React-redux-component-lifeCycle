@@ -1,0 +1,6 @@
+.counter-wrapper{
+    display: flex;
+    font-size: 3rem;
+    justify-content: center;
+    align-items: center;
+}
